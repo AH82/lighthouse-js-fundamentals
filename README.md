@@ -1,5 +1,4 @@
 #### Prep-Work :
-### > 4: Progamming Fundemantals 
 
 lighthouse-js-fundamentals
 ==========================
@@ -13,8 +12,16 @@ lighthouse-js-fundamentals
 
 <br/><br/>
 
-## This table lists each file to its corresponding lesson :  
+## Corresponding Lessons/exercises : 
+| Unit                       | Lessons                                | Notes  |
+|----------------------------|----------------------------------------|-------:|
+|4: Progamming Fundamentals: | ALL (except when indicated)            |     -  |
 
+---
+
+<br/><br/>  
+
+### Corresponding Code `.js` file to lessons :  
 
 | #.  | Lesson                                               |     Filesname |
 |-----|------------------------------------------------------|--------------:|
